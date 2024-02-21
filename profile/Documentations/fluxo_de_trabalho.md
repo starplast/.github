@@ -56,5 +56,5 @@ Os novos repositórios e projetos **PODEM** ser gerados a partir de templates pr
 
 ## :label: Arquivos README 
 
-**TODOS** os repositórios **devem** seguir o padrão de arquivos readme disponível em: [Padrão README](https://github.com/starplast/.github/blob/main/.github/template_readme_file.md)
+**TODOS** os repositórios **devem** seguir o padrão de arquivos readme disponível em: [Padrão README](https://github.com/starplast/.github/blob/main/profile/Documentations/template_readme_file.md)
 
