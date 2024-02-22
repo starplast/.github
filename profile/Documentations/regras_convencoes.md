@@ -1,8 +1,8 @@
 # ☘️ Regras e Convenções Internas
 
-## :bookmark: Nomes de Branches
+## :seedling: Nomes de Branches
 
-**DEVEM** ser criadas a partir da branch principal, a **main**
+:rotating_light: **DEVEM** ser criadas a partir da branch principal, a **main**
 
 **DEVEM** seguir o padrão **(tipo)/(nome_da_branch)**
   > Os tipos podem ser:
@@ -37,7 +37,7 @@
 
 ## :sparkles: Novos repositórios
 
-**TODOS** os novos repositórios e projetos **DEVEM**:
+:rotating_light: **TODOS** os novos repositórios e projetos **DEVEM**:
  - Ser desenvolvidos em:
     -  Se for uma API: **python ou typescript (nodejs)**
     -  Se for um aplicativo mobile: **typescript com React Native**
@@ -56,5 +56,5 @@ Os novos repositórios e projetos **PODEM** ser gerados a partir de templates pr
 
 ## :label: Arquivos README 
 
-**TODOS** os repositórios **devem** seguir o padrão de arquivos readme disponível em: [Padrão README](https://github.com/starplast/.github/blob/main/profile/Documentations/template_readme_file.md)
+:rotating_light: **TODOS** os repositórios **devem** seguir o padrão de arquivos readme disponível em: [Padrão README](https://github.com/starplast/.github/blob/main/profile/Documentations/template_readme_file.md)
 

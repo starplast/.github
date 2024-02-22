@@ -8,7 +8,9 @@ Desenvolvemos e distribuímos itens que revolucionam o “mercado sobre duas rod
 
 ## 📌 Antes de colaborar
 
-Veja nossos padrões em: [Padrões de projetos com GIT](https://github.com/starplast/.github/blob/main/profile/Documentations/fluxo_de_trabalho.md)
+Veja nossos padrões em: [Padrões de projetos com GIT](https://github.com/starplast/.github/blob/main/profile/Documentations/regras_convencoes.md)
+
+Veja nosso fluxo de trabalho em: [Fluxo de Trabalho](https://github.com/starplast/.github/blob/main/profile/Documentations/fluxo_trabalho.md)
 
 ## 🌩️ Primeira vez utilizando GIT?
 
