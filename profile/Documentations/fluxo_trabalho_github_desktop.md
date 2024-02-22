@@ -33,14 +33,14 @@
 7. Na tela que foi aberta é possível visualizar qual o repositório no canto superior esquerdo
 
 <p align="center" width="100%">
-  <img src="./assets/github-desktop-current-repo.png" width="450">
+  <img src="./assets/github-desktop-current-repo.png" width="850">
 </p>
 
 
 8. É possível visualizar a branch atual no canto superior
 
 <p align="center" width="100%">
-  <img src="./assets/github-desktop-current-branch-mainpng.png" width="450">
+  <img src="./assets/github-desktop-current-branch-mainpng.png" width="850">
 </p>
 
 9. Para criar outra branch e visualizar todas, basta clicar em "current branch"
@@ -66,7 +66,7 @@
 13. Ao realizar suas alterações, é possível visualizar quais arquivos foram alterados e o que foi alterao em cada um deles
 
 <p align="center" width="100%">
-  <img src="./assets/github-desktop-changes.png" width="450">
+  <img src="./assets/github-desktop-changes.png" width="850">
 </p>
 
 14. Selecione todos os arquivos que gostaria de adicionar ao commit e escreva uma mensagem para o commit.
@@ -79,7 +79,9 @@
 
 16. Tendo feito todos os commits, basta enviar suas alterações para o repositório remoto pressionando "Publish branch"
 
-[<img src="./assets/github-desktop-push.png" width="600">](./assets/github-desktop-push.png)
+<p align="center" width="100%">
+  <img src="./assets/github-desktop-push.png" width="450">
+</p>
 
 17. Volte à página web
 
@@ -89,9 +91,9 @@
   <img src="./assets/github-web-recent-pushes.png" width="450">
 </p>
 
-9. Pressione "Compare & pull request"
+19. Pressione "Compare & pull request"
 
-10. Uma tela irá ser exibida para a criação do pull request, nela é possível verificar com qual branch gostaríamos de mesclar nossa branch pelo campo "base" e qual a nossa branch pelo campo "compare".
+20. Uma tela irá ser exibida para a criação do pull request, nela é possível verificar com qual branch gostaríamos de mesclar nossa branch pelo campo "base" e qual a nossa branch pelo campo "compare".
 
 <p align="center" width="100%">
   <img src="./assets/github-web-open-pull-request.png" width="450">
@@ -99,9 +101,9 @@
 
 Nesta tela também será exibida a mensagem do pull request, ela já será gerada por padrão, mas é necessário preencher com as informações corretas.
 
-11. Ao finalizar o preenchimento das informações basta pressionar "Create pull request" no canto inferior direito.
+21. Ao finalizar o preenchimento das informações basta pressionar "Create pull request" no canto inferior direito.
 
-12. Após criar o pull request é possível visualizá-lo entrando na aba "Pull requests"
+22. Após criar o pull request é possível visualizá-lo entrando na aba "Pull requests"
 
 Seu pull request irá aparecer na lista
 
