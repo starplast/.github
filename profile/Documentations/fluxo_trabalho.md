@@ -1,12 +1,6 @@
 
 # ♻️ Fluxo de Trabalho
 
-:rotating_light: **TODAS** as modificações que forem realizadas nos repositórios devem estar atreladas a algum chamado.
-
-:rotating_light: **SEMPRE** que alterações forem realizadas é necessário seguir este fluxo de trabalho baseado no GITHUB Flow
-
-:rotating_light: **SEMPRE** envie suas alterações ao GIT, principalmente se já estiverem aplicadas em **produção**
-
 ### :pushpin: Introdução
 
 Todos os nosso repositórios são compostos por 1 ou mais branches, sendo a principal a **main**
@@ -57,3 +51,11 @@ Seu pull request irá aparecer na lista
 > Obs: Após a criação do pull request, o seu código ainda não irá para a branch principal, ele passará por uma análise e aprovação manual, assim que for aprovado, o código será mesclado.
 
 > Para mais informações sobre o Git acesse: [GIT Documentation](https://git-scm.com/docs)
+
+:rotating_light: **TODAS** as modificações que forem realizadas nos repositórios devem estar atreladas a algum chamado.
+
+:rotating_light: **SEMPRE** que alterações forem realizadas é necessário seguir este fluxo de trabalho
+
+:rotating_light: **SEMPRE** envie suas alterações ao GIT, principalmente se já estiverem aplicadas em **produção**
+
+:rotating_light: **NUNCA** faça commits direto na **main**
