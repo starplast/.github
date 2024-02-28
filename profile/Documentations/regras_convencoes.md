@@ -48,7 +48,7 @@
 Os novos repositórios e projetos **PODEM** ser gerados a partir de templates pré estabelecidos
 
 - Caso seja uma API simples em python: [Template base PYTHON](http://link)
-- Caso seja uma API simples em typescript: [Template base TYPESCRIPT](http://link)
+- Caso seja uma API simples em typescript: [Template base TYPESCRIPT](https://github.com/starplast/template-api-nodejs)
 
 > **Obs:** Os templates serão utilizados dependendo do contexto e complexidade da aplicação que será implementada. 
 
