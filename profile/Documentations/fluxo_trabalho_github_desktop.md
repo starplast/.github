@@ -9,13 +9,13 @@
 3. Vá em File > Clone repository
 
 <p align="center" width="100%">
-  <img src="./assets/git-desktop-file-clone.png" width="300">
+  <img src="./assets/git-desktop-file-clone.png" width="400">
 </p>
 
 4. Vá para a aba "url"
 
 <p align="center" width="100%">
-  <img src="./assets/git-desktop-clone-popup.png" width="450">
+  <img src="./assets/git-desktop-clone-popup.png" width="500">
 </p>
 
 5. Para obter a url, vá para o site do github, na página do repositório e copie o link que está disponível quando clica no botão "code"
@@ -27,7 +27,7 @@
 6. Cole o link no campo e pressione o botão "Clone"
 
 <p align="center" width="100%">
-  <img src="./assets/git-desktop-clone-popup.png" width="450">
+  <img src="./assets/git-desktop-clone-popup.png" width="500">
 </p>
 
 7. Na tela que foi aberta é possível visualizar qual o repositório no canto superior esquerdo
@@ -54,13 +54,13 @@
 11. Preencha o campo com o nome escolhido para a branch. Lembre-se de seguir as converções estipuladas.
 
 <p align="center" width="100%">
-  <img src="./assets/git-desktop-new-branch-popup.png" width="450">
+  <img src="./assets/git-desktop-new-branch-popup.png" width="500">
 </p>
 
 12. Ao criar a nova branch, o github vai automáticamente mudar para a nova branch
 
 <p align="center" width="100%">
-  <img src="./assets/git-desktop-current-branch-new.png" width="450">
+  <img src="./assets/git-desktop-current-branch-new.png" width="850">
 </p>
 
 13. Ao realizar suas alterações, é possível visualizar quais arquivos foram alterados e o que foi alterao em cada um deles
@@ -80,7 +80,7 @@
 16. Tendo feito todos os commits, basta enviar suas alterações para o repositório remoto pressionando "Publish branch"
 
 <p align="center" width="100%">
-  <img src="./assets/git-desktop-push-to-remote.png" width="450">
+  <img src="./assets/git-desktop-push-to-remote.png" width="850">
 </p>
 
 17. Volte à página web
@@ -88,7 +88,7 @@
 18. Por ter alterações recentes, o github automaticamente vai identificar e perguntar se gostaríamos de criar um pull request para a branch
 
 <p align="center" width="100%">
-  <img src="./assets/git-web-recent-pushes.png" width="450">
+  <img src="./assets/git-web-recent-pushes.png" width="850">
 </p>
 
 19. Pressione "Compare & pull request"
@@ -96,7 +96,7 @@
 20. Uma tela irá ser exibida para a criação do pull request, nela é possível verificar com qual branch gostaríamos de mesclar nossa branch pelo campo "base" e qual a nossa branch pelo campo "compare".
 
 <p align="center" width="100%">
-  <img src="./assets/igit-web-open-pull-request.png" width="450">
+  <img src="./assets/igit-web-open-pull-request.png" width="850">
 </p>
 
 Nesta tela também será exibida a mensagem do pull request, ela já será gerada por padrão, mas é necessário preencher com as informações corretas.
@@ -108,7 +108,7 @@ Nesta tela também será exibida a mensagem do pull request, ela já será gerad
 Seu pull request irá aparecer na lista
 
 <p align="center" width="100%">
-  <img src="./assets/git-web-all-pull-requests.png" width="450">
+  <img src="./assets/git-web-all-pull-requests.png" width="850">
 </p>
 
 > Obs: Após a criação do pull request, o seu código ainda não irá para a branch principal, ele passará por uma análise e aprovação manual, assim que for aprovado, o código será mesclado.
